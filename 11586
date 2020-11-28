@@ -1,0 +1,4 @@
+N = int(input())
+for test in range(N):
+    e = input().strip()
+    print(e)
